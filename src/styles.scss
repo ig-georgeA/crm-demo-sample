@@ -5,7 +5,7 @@
 
 @include core();
 @include typography($font-family: "Open Sans", $type-scale: $fluent-type-scale);
-@include fluent-light-theme($light-fluent-word-palette);
+@include fluent-dark-theme($dark-fluent-excel-palette);
 
 body {
   background: var(--ig-surface-500);
