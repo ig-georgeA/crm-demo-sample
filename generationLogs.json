@@ -1,0 +1,332 @@
+[
+  {
+    "Message": "Submit or reset type button outside of a form. Interaction is not generated! Current component id 'fb9a4e3e-02f1-4310-b485-0e26247a4dd4', view id 'c3082ea4-0255-4e63-a552-3be14496afdc'",
+    "Level": "Warning",
+    "Reason": "Unspecified",
+    "Category": "Form",
+    "Context": {
+      "ComponentId": "fb9a4e3e-02f1-4310-b485-0e26247a4dd4",
+      "ViewId": "c3082ea4-0255-4e63-a552-3be14496afdc"
+    },
+    "UTCTimestamp": "2025-05-19T18:55:15.7273399Z"
+  },
+  {
+    "Message": "Submit or reset type button outside of a form. Interaction is not generated! Current component id '0888668d-0a80-4dd5-aff1-929ea54d5bb4', view id 'c3082ea4-0255-4e63-a552-3be14496afdc'",
+    "Level": "Warning",
+    "Reason": "Unspecified",
+    "Category": "Form",
+    "Context": {
+      "ComponentId": "0888668d-0a80-4dd5-aff1-929ea54d5bb4",
+      "ViewId": "c3082ea4-0255-4e63-a552-3be14496afdc"
+    },
+    "UTCTimestamp": "2025-05-19T18:55:15.7274816Z"
+  },
+  {
+    "Message": "Submit or reset type button outside of a form. Interaction is not generated! Current component id '50583133-e421-4814-9ca4-d6aae86819c6', view id 'c3082ea4-0255-4e63-a552-3be14496afdc'",
+    "Level": "Warning",
+    "Reason": "Unspecified",
+    "Category": "Form",
+    "Context": {
+      "ComponentId": "50583133-e421-4814-9ca4-d6aae86819c6",
+      "ViewId": "c3082ea4-0255-4e63-a552-3be14496afdc"
+    },
+    "UTCTimestamp": "2025-05-19T18:55:15.7276117Z"
+  },
+  {
+    "Message": "Component '' with id '33d9a042-1524-4314-9c68-368eb7f666c4' has property 'perPage' of type 'number' which is not in the correct format.",
+    "Level": "Warning",
+    "Reason": "TypeError",
+    "Category": "General",
+    "Context": {
+      "ComponentId": "33d9a042-1524-4314-9c68-368eb7f666c4",
+      "ViewId": "c3082ea4-0255-4e63-a552-3be14496afdc"
+    },
+    "UTCTimestamp": "2025-05-19T18:55:15.7290616Z"
+  },
+  {
+    "Message": "Component '' with id '33d9a042-1524-4314-9c68-368eb7f666c4' has property 'totalRecords' of type 'number' which is not in the correct format.",
+    "Level": "Warning",
+    "Reason": "TypeError",
+    "Category": "General",
+    "Context": {
+      "ComponentId": "33d9a042-1524-4314-9c68-368eb7f666c4",
+      "ViewId": "c3082ea4-0255-4e63-a552-3be14496afdc"
+    },
+    "UTCTimestamp": "2025-05-19T18:55:15.7290641Z"
+  },
+  {
+    "Message": "Component '' with id '33d9a042-1524-4314-9c68-368eb7f666c4' has property 'page' of type 'number' which is not in the correct format.",
+    "Level": "Warning",
+    "Reason": "TypeError",
+    "Category": "General",
+    "Context": {
+      "ComponentId": "33d9a042-1524-4314-9c68-368eb7f666c4",
+      "ViewId": "c3082ea4-0255-4e63-a552-3be14496afdc"
+    },
+    "UTCTimestamp": "2025-05-19T18:55:15.7290649Z"
+  },
+  {
+    "Message": "Component with id 'b5b6158d-d6b3-40a7-8b89-52cd26d95a5b' is a form component that has no model. Component is not generated as form.",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Form",
+    "Context": {
+      "ComponentId": "b5b6158d-d6b3-40a7-8b89-52cd26d95a5b",
+      "ViewId": "c3082ea4-0255-4e63-a552-3be14496afdc"
+    },
+    "UTCTimestamp": "2025-05-19T18:55:15.7351476Z"
+  },
+  {
+    "Message": "Submit or reset type button outside of a form. Interaction is not generated! Current component id 'a8aada23-e1d4-40cb-9725-16ce4884c3f0', view id 'a8a93626-149f-4ee0-99a7-1e68cd015259'",
+    "Level": "Warning",
+    "Reason": "Unspecified",
+    "Category": "Form",
+    "Context": {
+      "ComponentId": "a8aada23-e1d4-40cb-9725-16ce4884c3f0",
+      "ViewId": "a8a93626-149f-4ee0-99a7-1e68cd015259"
+    },
+    "UTCTimestamp": "2025-05-19T18:55:15.735588Z"
+  },
+  {
+    "Message": "Submit or reset type button outside of a form. Interaction is not generated! Current component id '10eb612b-65bd-40f7-b212-d94a7387c84e', view id 'a8a93626-149f-4ee0-99a7-1e68cd015259'",
+    "Level": "Warning",
+    "Reason": "Unspecified",
+    "Category": "Form",
+    "Context": {
+      "ComponentId": "10eb612b-65bd-40f7-b212-d94a7387c84e",
+      "ViewId": "a8a93626-149f-4ee0-99a7-1e68cd015259"
+    },
+    "UTCTimestamp": "2025-05-19T18:55:15.7411394Z"
+  },
+  {
+    "Message": "Submit or reset type button outside of a form. Interaction is not generated! Current component id 'a31fcf46-8332-437c-b310-688963b0c536', view id 'a8a93626-149f-4ee0-99a7-1e68cd015259'",
+    "Level": "Warning",
+    "Reason": "Unspecified",
+    "Category": "Form",
+    "Context": {
+      "ComponentId": "a31fcf46-8332-437c-b310-688963b0c536",
+      "ViewId": "a8a93626-149f-4ee0-99a7-1e68cd015259"
+    },
+    "UTCTimestamp": "2025-05-19T18:55:15.7413135Z"
+  },
+  {
+    "Message": "Submit or reset type button outside of a form. Interaction is not generated! Current component id '4667ec4d-2c8e-4e40-bfe2-a946223033dc', view id 'a8a93626-149f-4ee0-99a7-1e68cd015259'",
+    "Level": "Warning",
+    "Reason": "Unspecified",
+    "Category": "Form",
+    "Context": {
+      "ComponentId": "4667ec4d-2c8e-4e40-bfe2-a946223033dc",
+      "ViewId": "a8a93626-149f-4ee0-99a7-1e68cd015259"
+    },
+    "UTCTimestamp": "2025-05-19T18:55:15.7414688Z"
+  },
+  {
+    "Message": "Submit or reset type button outside of a form. Interaction is not generated! Current component id 'f28f69b5-3b0f-48b4-a031-fe30df516399', view id 'a8a93626-149f-4ee0-99a7-1e68cd015259'",
+    "Level": "Warning",
+    "Reason": "Unspecified",
+    "Category": "Form",
+    "Context": {
+      "ComponentId": "f28f69b5-3b0f-48b4-a031-fe30df516399",
+      "ViewId": "a8a93626-149f-4ee0-99a7-1e68cd015259"
+    },
+    "UTCTimestamp": "2025-05-19T18:55:15.7416239Z"
+  },
+  {
+    "Message": "Submit or reset type button outside of a form. Interaction is not generated! Current component id 'f12e789e-8310-4223-b5d9-0d8d864e5c01', view id 'a8a93626-149f-4ee0-99a7-1e68cd015259'",
+    "Level": "Warning",
+    "Reason": "Unspecified",
+    "Category": "Form",
+    "Context": {
+      "ComponentId": "f12e789e-8310-4223-b5d9-0d8d864e5c01",
+      "ViewId": "a8a93626-149f-4ee0-99a7-1e68cd015259"
+    },
+    "UTCTimestamp": "2025-05-19T18:55:15.7417789Z"
+  },
+  {
+    "Message": "Submit or reset type button outside of a form. Interaction is not generated! Current component id 'a59dea2b-e577-446a-a187-d7c7cbd55c6b', view id 'a8a93626-149f-4ee0-99a7-1e68cd015259'",
+    "Level": "Warning",
+    "Reason": "Unspecified",
+    "Category": "Form",
+    "Context": {
+      "ComponentId": "a59dea2b-e577-446a-a187-d7c7cbd55c6b",
+      "ViewId": "a8a93626-149f-4ee0-99a7-1e68cd015259"
+    },
+    "UTCTimestamp": "2025-05-19T18:55:15.7485569Z"
+  },
+  {
+    "Message": "Submit or reset type button outside of a form. Interaction is not generated! Current component id '66a3cd5b-a83f-43ab-8285-2e6435e508eb', view id 'a8a93626-149f-4ee0-99a7-1e68cd015259'",
+    "Level": "Warning",
+    "Reason": "Unspecified",
+    "Category": "Form",
+    "Context": {
+      "ComponentId": "66a3cd5b-a83f-43ab-8285-2e6435e508eb",
+      "ViewId": "a8a93626-149f-4ee0-99a7-1e68cd015259"
+    },
+    "UTCTimestamp": "2025-05-19T18:55:15.7487645Z"
+  },
+  {
+    "Message": "Submit or reset type button outside of a form. Interaction is not generated! Current component id '0dce7a4d-dcf5-462c-a233-203d7812f089', view id 'a8a93626-149f-4ee0-99a7-1e68cd015259'",
+    "Level": "Warning",
+    "Reason": "Unspecified",
+    "Category": "Form",
+    "Context": {
+      "ComponentId": "0dce7a4d-dcf5-462c-a233-203d7812f089",
+      "ViewId": "a8a93626-149f-4ee0-99a7-1e68cd015259"
+    },
+    "UTCTimestamp": "2025-05-19T18:55:15.7489647Z"
+  },
+  {
+    "Message": "Missing variable for navigation parameter with id '' in view 'a8a93626-149f-4ee0-99a7-1e68cd015259'",
+    "Level": "Warning",
+    "Reason": "NotFound",
+    "Category": "Data",
+    "Context": {
+      "ComponentId": "cc1ea018-7118-4531-87bf-103ebd536a00",
+      "ViewId": "23368886-19ce-4bd3-8986-105512fe07ba"
+    },
+    "UTCTimestamp": "2025-05-19T18:55:16.052808Z"
+  },
+  {
+    "Message": "Library with id '' was not found.",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Component",
+    "Context": {
+      "ComponentId": null,
+      "ViewId": null
+    },
+    "UTCTimestamp": "2025-05-19T18:55:16.0648781Z"
+  },
+  {
+    "Message": "Missing definition id!",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Component",
+    "Context": {
+      "ComponentId": null,
+      "ViewId": null
+    },
+    "UTCTimestamp": "2025-05-19T18:55:16.0648808Z"
+  },
+  {
+    "Message": "Library with id '' was not found.",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Component",
+    "Context": {
+      "ComponentId": null,
+      "ViewId": null
+    },
+    "UTCTimestamp": "2025-05-19T18:55:16.0649861Z"
+  },
+  {
+    "Message": "Missing definition id!",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Component",
+    "Context": {
+      "ComponentId": null,
+      "ViewId": null
+    },
+    "UTCTimestamp": "2025-05-19T18:55:16.0649864Z"
+  },
+  {
+    "Message": "Missing variable for navigation parameter with id '' in view 'a8a93626-149f-4ee0-99a7-1e68cd015259'",
+    "Level": "Warning",
+    "Reason": "NotFound",
+    "Category": "Data",
+    "Context": {
+      "ComponentId": "b8fa3c6e-f806-486c-af02-e820c6435236",
+      "ViewId": "c3082ea4-0255-4e63-a552-3be14496afdc"
+    },
+    "UTCTimestamp": "2025-05-19T18:55:16.0713746Z"
+  },
+  {
+    "Message": "Library with id '' was not found.",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Component",
+    "Context": {
+      "ComponentId": null,
+      "ViewId": null
+    },
+    "UTCTimestamp": "2025-05-19T18:55:16.0781932Z"
+  },
+  {
+    "Message": "Missing definition id!",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Component",
+    "Context": {
+      "ComponentId": null,
+      "ViewId": null
+    },
+    "UTCTimestamp": "2025-05-19T18:55:16.0781956Z"
+  },
+  {
+    "Message": "Library with id '' was not found.",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Component",
+    "Context": {
+      "ComponentId": null,
+      "ViewId": null
+    },
+    "UTCTimestamp": "2025-05-19T18:55:16.0783493Z"
+  },
+  {
+    "Message": "Missing definition id!",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Component",
+    "Context": {
+      "ComponentId": null,
+      "ViewId": null
+    },
+    "UTCTimestamp": "2025-05-19T18:55:16.07835Z"
+  },
+  {
+    "Message": "Library with id '' was not found.",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Component",
+    "Context": {
+      "ComponentId": null,
+      "ViewId": null
+    },
+    "UTCTimestamp": "2025-05-19T18:55:16.1369311Z"
+  },
+  {
+    "Message": "Missing definition id!",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Component",
+    "Context": {
+      "ComponentId": null,
+      "ViewId": null
+    },
+    "UTCTimestamp": "2025-05-19T18:55:16.1369344Z"
+  },
+  {
+    "Message": "Library with id '' was not found.",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Component",
+    "Context": {
+      "ComponentId": null,
+      "ViewId": null
+    },
+    "UTCTimestamp": "2025-05-19T18:55:16.1373943Z"
+  },
+  {
+    "Message": "Missing definition id!",
+    "Level": "Error",
+    "Reason": "NotFound",
+    "Category": "Component",
+    "Context": {
+      "ComponentId": null,
+      "ViewId": null
+    },
+    "UTCTimestamp": "2025-05-19T18:55:16.137396Z"
+  }
+]
