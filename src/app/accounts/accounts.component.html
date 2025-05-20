@@ -72,7 +72,7 @@
       <igx-paginator [perPage]="grid_Page_Size" [totalRecords]="grid_Data_Request?.totalRecordsCount || 0" [page]="grid_Page_Index" (pageChange)="grid_Page_Index = $event" (perPageChange)="grid_Page_Size = $event"></igx-paginator>
       <igx-column field="customerId" dataType="string" header="customerId" [filterable]="true" [groupable]="true" [sortable]="true" [selectable]="false">
         <ng-template igxCell let-cell="cell">
-          <a target="_blank" [routerLink]="['/account-detail']" class="ig-typography__body-2 hyperlink">
+          <a target="_blank" [routerLink]="['/account-detail', cell.value]" class="ig-typography__body-2 hyperlink">
             {{ cell.value }}
           </a>
         </ng-template>
