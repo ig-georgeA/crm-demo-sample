@@ -5,7 +5,7 @@ import { RouterTestingModule } from '@angular/router/testing';
 import { HttpClientTestingModule } from '@angular/common/http/testing';
 
 import { IgxCategoryChartModule } from 'igniteui-angular-charts';
-import { IGX_GRID_DIRECTIVES, IGX_LIST_DIRECTIVES, IgxAvatarComponent, IgxIconComponent, IGX_CHIPS_DIRECTIVES } from '@infragistics/igniteui-angular';
+import { IGX_GRID_DIRECTIVES, IGX_LIST_DIRECTIVES, IgxAvatarComponent, IgxIconComponent, IGX_CHIPS_DIRECTIVES } from 'igniteui-angular';
 import { HomeComponent } from './home.component';
 
 describe('HomeComponent', () => {

@@ -1,11 +1,11 @@
 import { Component, OnDestroy, OnInit } from '@angular/core';
 import { RouterLink } from '@angular/router';
-import { IGX_CHIPS_DIRECTIVES, IGX_GRID_DIRECTIVES, IGX_LIST_DIRECTIVES, IgxAvatarComponent, IgxIconComponent } from '@infragistics/igniteui-angular';
+import { IGX_CHIPS_DIRECTIVES, IGX_GRID_DIRECTIVES, IGX_LIST_DIRECTIVES, IgxAvatarComponent, IgxIconComponent } from 'igniteui-angular';
 import { IgxCategoryChartModule } from 'igniteui-angular-charts';
 import { Subject, takeUntil } from 'rxjs';
-import { MeetingsTasksType } from '../models/crmapp/meetings-tasks-type';
 import { CustomerDto } from '../models/northwind-swagger/customer-dto';
 import { SalesType } from '../models/financial/sales-type';
+import { MeetingsTasksType } from '../models/crmapp/meetings-tasks-type';
 import { FinancialService } from '../services/financial.service';
 import { CRMAppService } from '../services/crmapp.service';
 import { NorthwindSwaggerService } from '../services/northwind-swagger.service';

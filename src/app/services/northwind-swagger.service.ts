@@ -1,9 +1,9 @@
 import { HttpClient, HttpParams } from '@angular/common/http';
 import { Injectable } from '@angular/core';
 import { catchError, Observable, of } from 'rxjs';
-import { ProductDto } from '../models/northwind-swagger/product-dto';
-import { CustomerDto } from '../models/northwind-swagger/customer-dto';
 import { OrderDto } from '../models/northwind-swagger/order-dto';
+import { CustomerDto } from '../models/northwind-swagger/customer-dto';
+import { ProductDto } from '../models/northwind-swagger/product-dto';
 import { CustomerDtoPagedResultDto } from '../models/northwind-swagger/customer-dto-paged-result-dto';
 import { ErrorHandlerService } from './error-handler.service';
 
